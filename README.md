@@ -1,2 +1,2 @@
 # ProjetoAndroid
-Criado no curso de Html e cCss
+Criado no curso de Html e Css
